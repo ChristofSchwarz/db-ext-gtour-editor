@@ -1,0 +1,14 @@
+{
+  "name": "/\\Guided Tour 2 Editor",
+  "type": "visualization",
+  "description": "All Guided Tour editor versions",
+  "author": "Christof Schwarz",
+  "homepage": "https://github.com/ChristofSchwarz/db-ext-gtour-editor",
+  "icon": "plus",
+  "preview": "pics/databridgelogo.png",
+  "dependencies": {
+    "qlik-sense": ">=3.0.x"
+  },
+  "keywords": "qlik-sense, visualization",
+  "license": "MIT"
+}
